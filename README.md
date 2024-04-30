@@ -48,7 +48,7 @@ In conclusion, I present to you the visualization of the actors with the most nu
 After seeing who has the most Africa Magic Viewers’ Choice Awards, I'd conclude this data project by saying 
 “If it looks like a duck, swims like a duck and quacks like a duck, then it probably is a duck.” 
 
-### Funke Akindele is the Most Influential Nollywood Actor
+**Funke Akindele is the Most Influential Nollywood Actor**
 
 ## Dashboard
 ![](https://github.com/saintgokex/Nollywood-Most-Influential-/blob/f2fdb64cd1e85dd58e17b4795907a66c603adb26/a39a09030f9649f8d1ef367b65e00cf2y6BUIIJnzuVfaCgc-0.jpg)
