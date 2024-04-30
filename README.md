@@ -1,21 +1,30 @@
-# Nollywood-Most-Influential-Actor
+# Nollywood Actor Influence Index: A Comprehensive AnalysisIntroduction
 
-## Factors
-To deermine the most influential Nollywood, we need to consider a wide range of factors viz: 
-- longevity
-- net worth
-- social media following
-- box office revenue
-- major awards won
+## Introduction
+Welcome to the Nollywood Actor Influence Index, a comprehensive analysis aimed at determining the most influential actor within the vibrant Nollywood industry. 
+
+In this documentation, we delve into various factors that contribute to an actor's influence, ranging from longevity to social media presence, box office revenue, and major awards won.
+
+## Factors Considered
+To determine the most influential Nollywood actor, we meticulously evaluate the following factors:
+- Longevity: Examining sustained success over time to identify actors with enduring influence in the industry.
+- Net Worth: Analyzing financial standing as a reflection of an actor's commercial success and influence.
+- Social Media Following: Assessing the reach and engagement of actors on prominent platforms like Instagram.
+- Box Office Revenue: Evaluating actors' contributions to the Nigerian box office to gauge their impact on the industry's financial landscape.
+- Major Awards Won: Recognizing talent and influence through accolades such as the Africa Magic Viewers' Choice Awards (AMVCA).
+  
 
 ### Longevity
 
-Being successful in the industry for two or three consecutive years is not enough to earn the title of “The One” of Nollywood. It’s important to find out the actors with the most longevity in the industry.
+In Nollywood, longevity signifies more than mere presence; it embodies resilience and relevance. Through our analysis, we identify actors with a track record of sustained success, highlighting their enduring influence within the industry.
 
 ![](https://github.com/saintgokex/Nollywood-Most-Influential-/blob/d5ffa0b85d8e3d1c1e8ad5b38bcdfb46c0e117a2/Screenshot_20240430-015528.png)
 
 ## Who are the real ballers among our Nollywood stars?
-Staying relevant in the industry for decades can’t be the sole determinant of the most influential Nollywood actor, we need to weigh the wallets and see who’s got the fattest one.
+
+An actor's net worth serves as a tangible measure of their success and influence within the competitive landscape of Nollywood. By examining financial data, we unveil the industry's most financially influential figures.
+
+Let's weigh the wallets of our Nollywood stars and see who’s got the fattest one.
 
 ![](https://github.com/saintgokex/Nollywood-Most-Influential-/blob/d5ffa0b85d8e3d1c1e8ad5b38bcdfb46c0e117a2/Screenshot_20240430-015546.png)
 
@@ -23,7 +32,7 @@ Out of all the 82 actors under review, only two have a networth of over USD 10 m
 
 ## On the Gram, who really has the influence?
 
-Numbers don’t lie, do they? Let’s see who is truly the most influential on the renown social media platform – Instagram. 
+In today's digital age, social media presence is a vital indicator of an actor's influence. Our analysis delves into the Instagram following of Nollywood stars, shedding light on those who wield significant digital influence.
 
 ![](https://github.com/saintgokex/Nollywood-Most-Influential-/blob/d5ffa0b85d8e3d1c1e8ad5b38bcdfb46c0e117a2/Screenshot_20240430-015559.png)
 
@@ -32,7 +41,7 @@ Only four of the 82 actors under review have over 10m followers on Instagram whi
 
 ## Who is Nigerian Box Office’s Number One? 
 
-Nigeria box Office has generated a cumulative revenue of 19 billion naira over the past three years, our analysis won't be fair if we don't assess who the top earners are among our Nollywood stars. 
+The Nigerian box office serves as a barometer of an actor's commercial prowess and influence within the film industry. Through our examination of box office data, we uncover the top earners and their impact on the industry's financial landscape. Nigeria box Office has generated a cumulative revenue of 19 billion naira over the past three years.
 
 ![](https://github.com/saintgokex/Nollywood-Most-Influential-/blob/d5ffa0b85d8e3d1c1e8ad5b38bcdfb46c0e117a2/Screenshot_20240430-015620.png)
 
@@ -40,16 +49,16 @@ A quick glance at our top earners shows that a certain individual earned almost 
 
 ## Who is the Viewer's Choice? 
 
-In conclusion, I present to you the visualization of the actors with the most number of Africa Magic Viewers’ Choice Awards (AMVCA)
+Recognition through prestigious awards such as the Africa Magic Viewers' Choice Awards is a testament to an actor's talent and influence. Our analysis showcases actors who have garnered the most accolades, solidifying their status as industry frontrunners.
 
 ![](https://github.com/saintgokex/Nollywood-Most-Influential-/blob/d5ffa0b85d8e3d1c1e8ad5b38bcdfb46c0e117a2/Screenshot_20240430-015637.png)
 
 ## Conclusion
-After seeing who has the most Africa Magic Viewers’ Choice Awards, I'd conclude this data project by saying 
-“If it looks like a duck, swims like a duck and quacks like a duck, then it probably is a duck.” 
+**If it looks like a duck, swims like a duck and quacks like a duck, then it probably is a duck.**
 
-**Funke Akindele is the Most Influential Nollywood Actor**
+After a comprehensive analysis of the factors outlined above, we conclude that Funke Akindele emerges as the most influential Nollywood actor. Her enduring presence, substantial net worth, vast social media following, significant box office contributions, and numerous accolades collectively affirm her status as a powerhouse within the industry.
 
 ## Dashboard
+The accompanying dashboard provides visual representations of our analysis, offering intuitive insights into the factors driving influence within the Nollywood landscape.
 ![](https://github.com/saintgokex/Nollywood-Most-Influential-/blob/f2fdb64cd1e85dd58e17b4795907a66c603adb26/a39a09030f9649f8d1ef367b65e00cf2y6BUIIJnzuVfaCgc-0.jpg)
 
