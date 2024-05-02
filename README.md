@@ -1,9 +1,11 @@
-# Nollywood Actor Influence Index: A Comprehensive AnalysisIntroduction
+# Nollywood Actor Influence Index: A Comprehensive Analysis
 
 ## Introduction
 Welcome to the Nollywood Actor Influence Index, a comprehensive analysis aimed at determining the most influential actor within the vibrant Nollywood industry. 
 
 In this documentation, we delve into various factors that contribute to an actor's influence, ranging from longevity to social media presence, box office revenue, and major awards won.
+
+If you're interested in knowing the methodology involved in the data gathering, data cleaning and the thought-process behind the data visualization employed in putting together this body of work, kindly click [here](https://github.com/saintgokex/Methodology---Nollywood-s-Most-Influential/blob/572515c84579937b9237eb22126cd9e0dbd44cc5/README.md)
 
 ## Factors Considered
 To determine the most influential Nollywood actor, we meticulously evaluate the following factors:
@@ -62,3 +64,4 @@ After a comprehensive analysis of the factors outlined above, we conclude that F
 The accompanying dashboard provides visual representations of our analysis, offering intuitive insights into the factors driving influence within the Nollywood landscape.
 ![](https://github.com/saintgokex/Nollywood-Most-Influential-/blob/5f61c3a059367e38163c261c973572bd83698834/Nollywood's%20Most%20Influential.jpg)
 
+Once again, if you're interested in knowing the methodology involved in the data gathering, data cleaning and the thought-process behind the data visualization employed in putting together this body of work, kindly click [here](https://github.com/saintgokex/Methodology---Nollywood-s-Most-Influential/blob/572515c84579937b9237eb22126cd9e0dbd44cc5/README.md)
